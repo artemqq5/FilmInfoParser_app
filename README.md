@@ -16,5 +16,5 @@ Uses of technology:
 - MVVM pattern
 
 
-![img1](https://user-images.githubusercontent.com/52855607/208398360-4e2ff01d-2c5f-4124-985b-c1f6a593ef8c.png)
-![img2](https://user-images.githubusercontent.com/52855607/208398364-6c86e09a-7b6f-4767-8722-5c1cce982374.png)
+![img1](https://user-images.githubusercontent.com/52855607/208398360-4e2ff01d-2c5f-4124-985b-c1f6a593ef8c.png | width=500)
+![img2](https://user-images.githubusercontent.com/52855607/208398364-6c86e09a-7b6f-4767-8722-5c1cce982374.png | width=500)
