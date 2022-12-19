@@ -4,16 +4,17 @@ FilmInfoParser App - Pulls movie data from a site and parses it for an easy-to-r
 You can read about each of the films in detail by simply clicking on it and thus go to the viewing page
 
 The main functions of the application:
--Automatic download of data about all movies
--Loading additional data about a movie after switching to it
+- Automatic download of data about all movies
+- Loading additional data about a movie after switching to it
 
 Uses of technology:
--Picasso 
--Jsoup
--ViewModel, LiveData
--Naigation fragment
--R8 (Obfuscator)
--MVVM pattern
+- Picasso 
+- Jsoup
+- ViewModel, LiveData
+- Naigation fragment
+- R8 (Obfuscator)
+- MVVM pattern
 
-![img1](https://user-images.githubusercontent.com/52855607/208397255-fa7c8711-1304-44e4-b309-18152e56554d.png)
-![img2](https://user-images.githubusercontent.com/52855607/208397261-c9ef9548-3c79-4d1c-bdd6-2d4f133ff68f.png)
+
+![img1](https://user-images.githubusercontent.com/52855607/208398360-4e2ff01d-2c5f-4124-985b-c1f6a593ef8c.png)
+![img2](https://user-images.githubusercontent.com/52855607/208398364-6c86e09a-7b6f-4767-8722-5c1cce982374.png)
