@@ -6,6 +6,7 @@ You can read about each of the films in detail by simply clicking on it and thus
 The main functions of the application:
 - Automatic download of data about all movies
 - Loading additional data about a movie after switching to it
+- Check internet connection brfore any loading
 
 Uses of technology:
 - Picasso 
